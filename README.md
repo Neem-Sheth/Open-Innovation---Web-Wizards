@@ -71,7 +71,7 @@ For contributing guidelines and standards, visit [contributing.md](https://githu
 
 ## 📸 Screenshots <a name = "screenshots"></a>
 
-![readmeBanner](https://user-images.githubusercontent.com/98955085/184510782-3f699206-4768-4b3a-aa6d-40c924e13578.png)
+<img src="./Screenshot 2024-03-10 234805.png" alt="image">
 
 ## Tech Stack <a name = "tech_stack"></a>
 
