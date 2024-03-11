@@ -47,6 +47,7 @@ Live a stress-free life.
 - **Yoga Therapy**
   Discover the benefits of yoga, read about popular yoga poses, and watch video tutoroials that you can follow along with.
 - **Laughing Therapy**
+- Also known as laughter yoga or laughter therapy, is a form of therapy that utilizes laughter exercises to promote physical and mental well-being.
 - **Talking Therapy**
   Find out if you are someone who can benefit from talking therapy and go through our provided articles and videos about talking therapy to help manage depression, anxiety, and stress.
 - **Consult A Doctor**
