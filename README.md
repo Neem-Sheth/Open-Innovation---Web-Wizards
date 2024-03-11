@@ -60,11 +60,11 @@ Every contribution counts.
 1. Ensure that you have Git installed and working properly.
 2. Fork the repo by clicking on 'Fork' above.
 3. Clone the project by running git clone <forked_project_url>.
-4. Confused about where to start? Check out [good-first-issue](https://github.com/Susmita-Dey/Therapy Mind/labels/good%20first%20issue).
+4. Confused about where to start? Check out [good-first-issue](https://github.com/mjgandhi2305).
 5. Make a separate branch with the issue name ex. issue#485.
 6. You are good to go. Change the code and we will be waiting for your exciting PRs.
 
-For contributing guidelines and standards, visit [contributing.md](https://github.com/Susmita-Dey/Therapy Mind/blob/main/CONTRIBUTING.md).
+For contributing guidelines and standards, visit [contributing.md](https://github.com/mjgandhi2305) or Contact me on my e-mail: mjgandhi2305@gmail.com.
 
 ## Our Logo <a name = "logo"></a>
 
