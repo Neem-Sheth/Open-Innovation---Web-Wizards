@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Therapy Mind
 
 This is a stress-relieving website project made for the Web-a-thon(https://mindbendsvnit.in)
@@ -7,7 +6,7 @@ This was our first hackathon as this team together.
 
 ## 📃 Description
 
-"Welcome to our stress-relieving website : [Therapy Mind](https://therapy-mind.vercel.app/)! Here, you'll find a variety of tools and resources to help you manage and reduce stress in your daily life. From carefully crafted playlists and relaxing podcasts, to articles and tips on stress management techniques, our goal is to provide you with a one-stop-shop for all of your stress-relief needs. Whether you're looking for a quick break during a hectic workday, or a longer practice to unwind at night, we've got you covered. Take a look around, try out some of our resources, and let us know if there's anything we can do to improve your experience. Remember, taking care of yourself is just as important as taking care of your work and projects, so don't hesitate to make time for stress relief in your busy schedule."
+"Welcome to our stress-relieving website : [Therapy Mind]([https://therapy-mind.vercel.app/](https://neem-sheth.github.io/Open-Innovation---Web-Wizards/))! Here, you'll find a variety of tools and resources to help you manage and reduce stress in your daily life. From carefully crafted playlists and relaxing podcasts, to articles and tips on stress management techniques, our goal is to provide you with a one-stop-shop for all of your stress-relief needs. Whether you're looking for a quick break during a hectic workday, or a longer practice to unwind at night, we've got you covered. Take a look around, try out some of our resources, and let us know if there's anything we can do to improve your experience. Remember, taking care of yourself is just as important as taking care of your work and projects, so don't hesitate to make time for stress relief in your busy schedule."
 
 ## Website Link-
 
@@ -61,7 +60,7 @@ Every contribution counts.
 1. Ensure that you have Git installed and working properly.
 2. Fork the repo by clicking on 'Fork' above.
 3. Clone the project by running git clone <forked_project_url>.
-4. Confused about where to start? Check out [good-first-issue](https://github.com/mjgandhi2305).
+4. Confused about where to start? Check out [good-first-issue](https://github.com/Neem-Sheth/Open-Innovation---Web-Wizards/).
 5. Make a separate branch with the issue name ex. issue#485.
 6. You are good to go. Change the code and we will be waiting for your exciting PRs.
 
