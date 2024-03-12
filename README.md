@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Therapy Mind
 
 This is a stress-relieving website project made for the Web-a-thon(https://mindbendsvnit.in)
@@ -88,3 +89,6 @@ For contributing guidelines and standards, visit [contributing.md](https://githu
 <p align="center">
   Made with ❤ from India.
 </p>
+=======
+# Open-Innovation---Web-Wizards
+>>>>>>> c77105fbbfbfd88baaeb3d657e12989d2de30340
