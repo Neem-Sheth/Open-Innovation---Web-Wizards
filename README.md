@@ -65,7 +65,6 @@ Every contribution counts.
 5. Make a separate branch with the issue name ex. issue#485.
 6. You are good to go. Change the code and we will be waiting for your exciting PRs.
 
-For contributing guidelines and standards, visit [contributing.md](https://github.com/mjgandhi2305) or Contact me on my e-mail: mjgandhi2305@gmail.com.
 
 ## Our Logo <a name = "logo"></a>
 
